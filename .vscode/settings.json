@@ -1,4 +1,6 @@
-{
+{  "files.exclude": {
+  "graphql/generated/schema.ts": true
+  },
   "editor.formatOnSave": true,
   "eslint.workingDirectories": [
     {
