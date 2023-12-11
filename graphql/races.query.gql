@@ -1,0 +1,15 @@
+query Races {
+  races {
+    id
+    name
+    skills
+    description
+    image {
+      id
+      fileName
+      url
+      height
+      width
+    }
+  }
+}
